@@ -1,5 +1,5 @@
 {
-  "name": "roshni-potfolio-backend",
+  "name": "roshni-potfolio-website",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
